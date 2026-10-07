@@ -8,12 +8,14 @@ void main() {
     // Create two integer variables, `first` and `second`. Assign `first`
     // a value of 5, and `second` a value of 4. Then, print the sum of
     // `first` and `second`.
-
+    int first = 5;
+    int second = 4;
+    System.out.print(first + second);
 
     // Create an integer variable `result`. Using Java math operators, multiply
     // the sum of 1 and 6 with the difference of 7 and 8, and store it in the
     // `result` variable. Then, print the value of `result`.
-
+    int result = 
 
     // Given the below variable `rotPerSec`, calculate the corresponding
     // amount of rotations per hour and store it in a variable `rotPerHour`.
